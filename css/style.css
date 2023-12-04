@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #1D272E;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+}
+
+.content {
+  text-align: center;
+}
+
+.image {
+  height: 50vh;
+}
