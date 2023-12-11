@@ -38,13 +38,12 @@ p {
   margin-bottom: 1em;
   text-align: center;
   font-size: 1em;
-  font-style: italic;
 }
 
 .image {
   height: 40vh;
   display: block;
-  margin: 0 auto 40px auto;
+  margin: 100px auto 40px auto;
 }
 
 /* Form styling */
@@ -53,7 +52,7 @@ form {
 }
 
 input[type=email] {
-  width: 70%;
+  width: 50%;
   padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #ddd;
@@ -89,6 +88,26 @@ input[type=email] {
   font-size: .8em;
 }
 
+.newspaper-clipping {
+  font-family: monospace , Times, serif;
+  font-size: 1em;
+  background-color: #C7E6D7;
+  border: 5px dotted #6685BC;
+  border-radius: 3px;
+  padding: 15px;
+  margin: 20px 0 40px 0;
+  color: #1D272E;
+  text-align: center;
+}
+
+.newspaper-clipping a {
+  color: #0056b3;
+}
+
+.newspaper-clipping a:hover {
+  text-decoration: underline;
+}
+
 /* Mobile styles */
 @media screen and (max-width: 600px) {
   .content {
@@ -111,5 +130,9 @@ input[type=email] {
 
   #mc_embed_signup .button {
       padding: 8px 16px;
+  }
+
+  .newspaper-clipping {
+    font-size: .8em;
   }
 }
