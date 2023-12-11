@@ -60,8 +60,11 @@ input[type=email] {
   border-radius: 4px;
 }
 
+#mc_embed_signup .foot {
+  text-align: center;;
+}
+
 #mc_embed_signup .button {
-  padding: 10px 20px;
   border: none;
   border-radius: 4px;
   background-color: #6685BC;
