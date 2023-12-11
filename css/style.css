@@ -61,7 +61,8 @@ input[type=email] {
 }
 
 #mc_embed_signup .foot {
-  text-align: center;;
+    grid-template-columns: 3fr;
+    justify-items: center;
 }
 
 #mc_embed_signup .button {
