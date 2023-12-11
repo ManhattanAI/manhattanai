@@ -10,7 +10,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   margin: 0;
   background-color: #1D272E;
   color: white;
@@ -101,7 +100,7 @@ input[type=email] {
 }
 
 .newspaper-clipping a {
-  color: #6685BC;
+  color: #1D272E;
 }
 
 .newspaper-clipping a:hover {
