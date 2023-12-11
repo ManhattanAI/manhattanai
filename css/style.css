@@ -68,6 +68,7 @@ input[type=email] {
   color: white;
   cursor: pointer;
   transition: background-color 0.3s;
+  line-height: normal;
 }
 
 #mc_embed_signup .button:hover {
