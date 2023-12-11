@@ -60,7 +60,7 @@ input[type=email] {
   border-radius: 4px;
 }
 
-#mc-embedded-subscribe {
+#mc_embed_signup .button {
   padding: 10px 20px;
   border: none;
   border-radius: 4px;
@@ -70,7 +70,7 @@ input[type=email] {
   transition: background-color 0.3s;
 }
 
-#mc-embedded-subscribe:hover {
+#mc_embed_signup .button:hover {
   background-color: #6685BC;
 }
 
@@ -104,7 +104,7 @@ input[type=email] {
       padding: 8px;
   }
 
-  #mc-embedded-subscribe {
+  #mc_embed_signup .button {
       padding: 8px 16px;
   }
 }
