@@ -26,9 +26,9 @@ body {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.5em;
   font-style: italic;
-  margin-bottom: 0.5em;
+  margin-bottom: 2em;
   color: #C7E6D7;
   text-align: center;
 }
@@ -39,10 +39,16 @@ p {
   font-size: 1em;
 }
 
+.signup {
+  font-family: monospace, Times, serif;
+  font-size: .8em;
+}
+
 .image {
   height: 40vh;
   display: block;
-  margin: 100px auto 40px auto;
+  margin: 40px auto 20px auto;
+  
 }
 
 /* Form styling */
