@@ -74,6 +74,16 @@ input[type=email] {
   background-color: #6685BC;
 }
 
+#mc_embed_signup div.response {
+  padding: 0;
+  font-weight: normal;
+}
+
+#mc_embed_signup #mce-success-response {
+  color: #C7E6D7;
+  font-size: .8em;
+}
+
 /* Mobile styles */
 @media screen and (max-width: 600px) {
   .content {
