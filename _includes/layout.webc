@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ManhattanAI</title>
+  <meta name="description"
+    content="Discover ManhattanAI, leading the way in AI and technology networking. Join us in 2024 to learn all about groundbreaking advancements in AI.">
+  <meta name="keywords"
+    content="ManhattanAI, AI, Artificial Intelligence, Technology, Future, Manhattan, Zahra Jabini, Tom Dale">
+  <link href="https://cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css" webc:keep>
+  <link rel="stylesheet" type="text/css" href="../css/style.css">
+  <link rel="stylesheet" :href="getBundleFileUrl('css')" webc:keep>
+
+  <!-- Open Graph / Social Media Tags -->
+  <meta property="og:title" content="ManhattanAI" />
+  <meta property="og:description"
+    content="Join us in 2024 to explore groundbreaking advancements in artificial intelligence and technology." />
+  <meta property="og:url" content="https://www.manhattanai.nyc/" />
+</head>
+
+<body @raw="content"></body>
+<body>
+  <script :src="getBundleFileUrl('js')"></script>
+</body>
+
+</html>
+
+
