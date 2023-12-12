@@ -39,6 +39,7 @@ layout: "layout.webc"
   <footer class="page-footer">
     <p>Brought to you with 💙 by <a href="https://twitter.com/zeejab" target="_blank">@zeejab</a> & <a
         href="https://twitter.com/tomdale" target="_blank">@tomdale</a></p>
+        <p>&copy;2024</p>
   </footer>
   <mailchimp></mailchimp>
 </div>
