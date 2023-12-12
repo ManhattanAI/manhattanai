@@ -106,7 +106,8 @@ input[type=email] {
 }
 
 .newspaper-clipping a {
-  color: #1D272E;
+  font-style: italic;
+  color: #6685BC;
 }
 
 .newspaper-clipping a:hover {
