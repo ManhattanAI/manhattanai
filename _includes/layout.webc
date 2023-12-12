@@ -13,11 +13,21 @@
   <link rel="stylesheet" type="text/css" href="../css/style.css">
   <link rel="stylesheet" :href="getBundleFileUrl('css')" webc:keep>
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="../media/manhattanai-favicon.png">
+
+  <!-- Apple Touch Icon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="../media/manhattanai-apple-touch.png">
+
   <!-- Open Graph / Social Media Tags -->
   <meta property="og:title" content="ManhattanAI" />
   <meta property="og:description"
     content="Join us in 2024 to explore groundbreaking advancements in artificial intelligence and technology." />
   <meta property="og:url" content="https://www.manhattanai.nyc/" />
+  <meta property="og:image" content="https://www.manhattanai.nyc/media/manhattanai-social.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="ManhattanAI" />
+  <meta property="og:locale" content="en_US" />
 </head>
 
 <body @raw="content"></body>
